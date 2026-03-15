@@ -1,0 +1,4 @@
+Mar 15 sshd[1234]: Failed password for user root
+Mar 15 systemd: WARNING disk space low
+Mar 15 kernel: ERROR memory allocation failed
+Mar 15 sshd[1235]: Accepted password for user admin
